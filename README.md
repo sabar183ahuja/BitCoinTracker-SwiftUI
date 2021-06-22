@@ -1,5 +1,5 @@
 # BitcoinTracker-SwiftUI
-Bitcoin Price Tracker using SwiftUI and Combine
+Bitcoin Price Tracker using SwiftUI and Combine to give real-time Price updates 
 
 Uses https://finnhub.io/ API to fetch Bitcoin price
 
